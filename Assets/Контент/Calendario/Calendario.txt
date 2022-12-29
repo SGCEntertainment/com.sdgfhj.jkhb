@@ -1,0 +1,50 @@
+28.12.2022 17:00	Ajaccio - Angers	– : –
+28.12.2022 17:00	Troyes - Nantes	– : –
+28.12.2022 19:00	Auxerre – Mónaco	– : –
+28.12.2022 21:00	Clermont – Lila	– : –
+28.12.2022 23:00	PSG - Estrasburgo	– : –
+28.12.2022 23:00	Brest – Lyon	– : –
+29.12.2022 19:00	Lorient - Montpellier	– : –
+29.12.2022 21:00	Reims - Rennes	– : –
+29.12.2022 23:00	Niza - lanza	– : –
+29.12.2022 23:00	Marsella – Tolosa	– : –
+01.01.2023 17:00	Mónaco – Brest	– : –
+01.01.2023 17:00	Nantes – Auxerre	– : –
+01.01.2023 17:00	Tolosa - Ajaccio	– : –
+01.01.2023 17:00	Angers - Lorient	– : –
+01.01.2023 19:00	Lyon - Clermont	– : –
+01.01.2023 22:45	Lanza - PSG	– : –
+02.01.2023 17:00	Estrasburgo – Troyes	– : –
+02.01.2023 19:00	Lila - Reims	– : –
+02.01.2023 21:00	Montpellier – Marsella	– : –
+02.01.2023 23:00	Rennes – Niza	– : –
+11.01.2023	Ajaccio - Reims	– : –
+11.01.2023	Auxerre - Tolosa	– : –
+11.01.2023	Clermont - Rennes	– : –
+11.01.2023	Lorient – ​​Mónaco	– : –
+11.01.2023	Nantes – Lyon	– : –
+11.01.2023	Niza – Montpellier	– : –
+11.01.2023	PSG - Angers	– : –
+11.01.2023	Estrasburgo - Lans	– : –
+11.01.2023	Brest - Lila	– : –
+11.01.2023	Troyes – Marsella	– : –
+15.01.2023	Mónaco - Ajaccio	– : –
+15.01.2023	Angers - Clermont	– : –
+15.01.2023	Lila – Troyes	– : –
+15.01.2023	Montpellier - Nantes	– : –
+15.01.2023	Lyon – Estrasburgo	– : –
+15.01.2023	Marsella – Lorient	– : –
+15.01.2023	Lanza - Auxerre	– : –
+15.01.2023	Rennes - PSG	– : –
+15.01.2023	Reims – Niza	– : –
+15.01.2023	Tolosa – Brest	– : –
+29.01.2023	Ajaccio - Lyon	– : –
+29.01.2023	Auxerre - Montpellier	– : –
+29.01.2023	Clermont - Nantes	– : –
+29.01.2023	Lorient - Rennes	– : –
+29.01.2023	Niza - Lila	– : –
+29.01.2023	Marsella – Mónaco	– : –
+29.01.2023	PSG - Reims	– : –
+29.01.2023	Estrasburgo - Tolosa	– : –
+29.01.2023	Brest – Angers	– : –
+29.01.2023	Troyes - Lanza	– : –

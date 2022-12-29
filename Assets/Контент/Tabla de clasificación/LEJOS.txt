@@ -1,0 +1,21 @@
+Equipo	Y	A	H	PAGS	pelotas	O	% puntos	La forma
+1	psg	8	7	1	0	24-2	22	91.7
+2	Mónaco	7	5	1	1	14-6	16	76.2
+3	Lorient	8	4	3	1	14-12	15	62.5
+4	Marsella	7	4	2	1	14-6	14	66.7
+5	Lanza	7	3	3	1	8-4	12	57.1
+6	agradable	8	3	3	2	9-8	12	50.0
+7	lila	7	3	1	3	12-8	10	47.6
+8	Rennes	7	2	4	1	10-8	10	47.6
+9	Clermont	8	2	3	3	11-10	9	37.5
+10	Reims	8	1	5	2	9-11	8	33.3
+11	ajaccio	8	2	2	4	8-11	8	33.3
+12	Brest	8	2	1	5	11-15	7	29.2
+13	Estrasburgo	7	1	3	3	10-13	6	28.6
+14	Veneno	8	2	0	6	16-20	6	25.0
+15	Montpellier	7	1	1	5	13-16	4	19.0
+16	lyon	7	1	1	5	7-12	4	19.0
+17	tolosa	7	1	1	5	7-13	4	19.0
+18	ángel	7	1	1	5	6-16	4	19.0
+19	Auxerre	8	1	1	6	7-22	4	16.7
+20	nantes	8	0	3	5	6-15	3	12.5

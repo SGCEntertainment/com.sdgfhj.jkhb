@@ -1,0 +1,11 @@
+	Nombre	Equipo	METRO	LCD	KK
+1	  Umar González	 ajaccio	11	6	0
+2	 Thiago Gialo	 lila	14	5	0
+2	 Marco Verratti	 psg	14	5	0
+5	 mandy batista	 Enfado	13	4	1
+5	 nunú tavares	 Marsella	14	4	0
+5	 Alidu Seydu	 Clermont	14	4	0
+5	 Amari Traoré	 Rennes	14	4	0
+5	 Bafode los diakitas	 lila	14	4	0
+5	 benjamin andré	 lila	14	4	0
+5	 brandon chardonnay	 Brest	14	4	0

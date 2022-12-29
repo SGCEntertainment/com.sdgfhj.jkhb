@@ -1,0 +1,6 @@
+Controlar	8	Lille - PSG ( 1:7 )
+Victoria	7	Brest - Montpellier ( 0:7 )
+victoria en casa	5	Lyon - Angers ( 5 : 0 )
+Rennes - Auxerre ( 5 : 0 )
+PSG - Auxerre ( 5 : 0 )
+Victoria fuera de casa	7	Brest - Montpellier ( 0:7 )
